@@ -1,0 +1,12 @@
+E:\Projecto_XP\MyBookStore\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+E:\Projecto_XP\MyBookStore\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+E:\Projecto_XP\MyBookStore\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+E:\Projecto_XP\MyBookStore\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Projecto_XP\MyBookStore\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Projecto_XP\MyBookStore\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete

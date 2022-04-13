@@ -1,0 +1,9 @@
+E:\Projecto_XP\MyBookStore\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\Projecto_XP\MyBookStore\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Projecto_XP\MyBookStore\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\Projecto_XP\MyBookStore\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\Projecto_XP\MyBookStore\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\Projecto_XP\MyBookStore\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\Projecto_XP\MyBookStore\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\Projecto_XP\MyBookStore\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\Projecto_XP\MyBookStore\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

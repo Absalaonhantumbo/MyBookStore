@@ -1,0 +1,16 @@
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Application.dll
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Application.pdb
+E:\Projecto_XP\MyBookStore\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.dll
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Persistence.pdb
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Domain.dll
+E:\Projecto_XP\MyBookStore\Infrastructure\bin\Debug\netcoreapp3.1\Domain.pdb
