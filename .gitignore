@@ -1,0 +1,11 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+appsettings.Development.json
+/.idea/.idea.MyBookStore/.idea/.name
+
+/Persistence/Migrations/
+/API/bin/
+/API/obj/
